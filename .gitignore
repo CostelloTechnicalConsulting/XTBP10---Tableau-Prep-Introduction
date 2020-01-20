@@ -1,1 +1,5 @@
+# Installers directory has a bunch of big binaries in it
 /Installers
+
+# Data/DBFiles is where the SQL Server data files are restored to
+Data/DBFiles

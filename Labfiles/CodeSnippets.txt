@@ -1,0 +1,9 @@
+
+## Connect to SQL Server
+
+DROP TABLE IF EXISTS dbo.TempTable;
+
+CREATE TABLE dbo.TempTable (hello VARCHAR(25));
+INSERT INTO dbo.TempTable VALUES ('World');
+
+
