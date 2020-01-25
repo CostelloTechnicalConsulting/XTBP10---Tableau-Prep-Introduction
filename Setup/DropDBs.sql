@@ -1,0 +1,2 @@
+DROP DATABASE [Sandbox]
+DROP DATABASE [AdventureWorksLT] 
