@@ -2,4 +2,5 @@
 /Installers
 
 # Data/DBFiles is where the SQL Server data files are restored to
-Data/DBFiles
+Data/DBFiles/*.mdf
+Data/DBFiles/*.ldf
