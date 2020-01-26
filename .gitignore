@@ -4,3 +4,6 @@
 # Data/DBFiles is where the SQL Server data files are restored to
 Data/DBFiles/*.mdf
 Data/DBFiles/*.ldf
+
+# Ignore PowerPoint temp files
+ppt/~$*.ppt*
