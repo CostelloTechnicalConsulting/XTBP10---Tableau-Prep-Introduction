@@ -1,0 +1,5 @@
+Month   Product Sales
+March   Apples         4
+March   Bananas        2
+March   Grapes         2
+March   Pears          5

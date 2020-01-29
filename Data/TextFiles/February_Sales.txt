@@ -1,0 +1,4 @@
+Month	Product	Sales
+February	Apples	2
+February	Bananas	4
+February	Grapes	3

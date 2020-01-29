@@ -8,3 +8,4 @@ Data/DBFiles/*.ldf
 # Ignore PowerPoint temp files
 ppt/~$*.ppt*
 Data/ContosoSales.accdb
+Demos/Output/*

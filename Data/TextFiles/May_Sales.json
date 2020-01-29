@@ -1,0 +1,17 @@
+[
+  {
+    "Month": "May",
+    "Product": "Apples",
+    "Sales": 3
+  },
+  {
+    "Month": "May",
+    "Product": "Bananas",
+    "Sales": 2
+  },
+  {
+    "Month": "May",
+    "Product": "Grapes",
+    "Sales": 4
+  }
+]

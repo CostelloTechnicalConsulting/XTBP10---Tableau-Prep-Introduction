@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Month>April</Month>
+    <Product>Apples</Product>
+    <Sales>3</Sales>
+  </row>
+  <row>
+    <Month>April</Month>
+    <Product>Bananas</Product>
+    <Sales>2</Sales>
+  </row>
+  <row>
+    <Month>April</Month>
+    <Product>Grapes</Product>
+    <Sales>4</Sales>
+  </row>
+</root>
