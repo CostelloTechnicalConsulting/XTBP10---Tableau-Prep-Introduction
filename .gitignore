@@ -7,5 +7,9 @@ Data/DBFiles/*.ldf
 
 # Ignore PowerPoint temp files
 ppt/~$*.ppt*
+
+# Ignore big 'ol Access Database
 Data/ContosoSales.accdb
+
+# Don't pick up demo output files
 Demos/Output/*
