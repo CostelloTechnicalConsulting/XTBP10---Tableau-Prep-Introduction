@@ -15,6 +15,7 @@ ECHO Preparing Databases...
 SQLCMD -E -i %SUBDIR%\DropDBs.sql
 SQLCMD -E -i %SUBDIR%\RestoreAdventureWorksLT.sql
 SQLCMD -E -i %SUBDIR%\CreateSandboxDB.sql
-pause
+
+::pause
 
 
