@@ -1,5 +1,5 @@
 # Tableau Server Downloader
-# v 1.0
+# v 1.1
 # Dan Costello
 
 Install-PackageProvider -Name NuGet -Force
